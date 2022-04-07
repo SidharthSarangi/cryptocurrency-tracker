@@ -1,3 +1,13 @@
+### Trending & Best
+![navbar best](https://user-images.githubusercontent.com/78564629/162186038-4c4a5c61-42ef-4944-b135-488e8b367830.gif)
+
+### Currency Search
+![currency search](https://user-images.githubusercontent.com/78564629/162186273-9638c816-dba2-4794-a1ec-a1017e0037c3.gif)
+
+### Top 10 Crypto News
+![top 10 news](https://user-images.githubusercontent.com/78564629/162186398-12c274d1-826b-48d5-be19-ca528e06fb5b.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
