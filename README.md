@@ -1,4 +1,4 @@
-## LIVE DEMO- [link](https://cryptocurrencyprice-tracker.netlify.app/)
+## LIVE DEMO- [link](https://crypto-currency-pricetracker.netlify.app/)
 
 ### Trending & Best
 ![navbar best](https://user-images.githubusercontent.com/78564629/162186038-4c4a5c61-42ef-4944-b135-488e8b367830.gif)
